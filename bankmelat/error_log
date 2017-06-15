@@ -1,0 +1,6 @@
+[04-Aug-2010 15:03:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/irmqz/public_html/mellat/mellat_functions.php on line 318
+[04-Aug-2010 16:48:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'irmqz'@'localhost' (using password: NO) in /home/irmqz/public_html/mellat/Bank_Mellat_Soap.php on line 151
+[04-Aug-2010 16:48:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/irmqz/public_html/mellat/Bank_Mellat_Soap.php on line 151
+[04-Aug-2010 16:48:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/irmqz/public_html/mellat/Bank_Mellat_Soap.php on line 151
+[04-Aug-2010 16:48:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'irmqz'@'localhost' (using password: NO) in /home/irmqz/public_html/mellat/Bank_Mellat_Soap.php on line 168
+[04-Aug-2010 16:48:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/irmqz/public_html/mellat/Bank_Mellat_Soap.php on line 168
